@@ -32,10 +32,10 @@ bash <(curl -Ls https://raw.githubusercontent.com/itznyperx1111/3x-ui/master/ins
 
 ## Install Custom Version
 
-To install your desired version, add the version to the end of the installation command. e.g., ver `v2.4.4`:
+To install your desired version, add the version to the end of the installation command. e.g., ver `v2.1.3`:
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/itznyperx1111/3x-ui/master/install.sh) v2.4.4
+bash <(curl -Ls https://raw.githubusercontent.com/itznyperx1111/3x-ui/master/install.sh) v2.1.3
 ```
 
 ## SSL Certificate
